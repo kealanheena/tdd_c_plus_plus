@@ -14,7 +14,7 @@ FizzBuzz Code Kata:
 ### Todo
 
 [x] Can I call the fizzBuzz function?
-- Get "1" when I pass in 1.
+[x] Get "1" when I pass in 1.
 - Get "2" when I pass in 2.
 - Get "Fizz" when I pass in 3.
 - Get "Buzz" when I pass in 5.
