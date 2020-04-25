@@ -2,9 +2,18 @@
 
 ## FizzBuzz
 
+FizzBuzz.cpp
+
+FizzBuzz Code Kata:
+- Write a function that receives and prints a passed in number.
+- But for multiples of three print "Fizz"
+- instead of the number and for the multiples of five print "Buzz".
+- For numbers which are multiples of
+- both three and five print "FizzBuzz".
+
 ### Todo
 
-- Can I call the fizzBuzz function?
+[x] Can I call the fizzBuzz function?
 - Get "1" when I pass in 1.
 - Get "2" when I pass in 2.
 - Get "Fizz" when I pass in 3.
